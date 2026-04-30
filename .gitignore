@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env*
+.vercel/
+/tmp
+*.log
+.DS_Store
+credentials.json
+token.json
